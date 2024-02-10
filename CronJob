@@ -1,0 +1,8 @@
+Cron tab-
+
+Used to be exucte command perodically.
+It uses daemon,crond, which keeps running in background and checks once a minute to see if any of thr job to run periodically at fixed times, day, or hours
+
+crontab-l to show all the current jobs
+cronttab-e to add or eit new jobs
+
