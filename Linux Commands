@@ -1,0 +1,28 @@
+There are many Linux commands used in day-to-day activities depending on the tasks you perform. Here's a list of some common commands:
+
+1. cd : Change directory.
+2. ls : List directory contents.
+3. pwd : Print working directory.
+4. **mkdir**: Make directory.
+5. **rm**: Remove files or directories.
+6. **cp**: Copy files or directories.
+7. **mv**: Move files or directories.
+8. **touch**: Create an empty file.
+9. **nano** or **vim** (or other text editors): Edit files.
+10. **cat**: Concatenate and display files.
+11. **grep**: Search text patterns.
+12. **find**: Search files and directories.
+13. **chmod**: Change file permissions.
+14. **chown**: Change file ownership.
+15. **sudo**: Execute a command as a superuser.
+16. **apt** or **yum** (depending on the package manager): Package management (installing, updating, removing software).
+17. **ssh**: Secure Shell for remote access.
+18. **scp**: Securely copy files between machines.
+19. **tar**: Archive files.
+20. **gzip** or **bzip2**: Compress and decompress files.
+21. **df**: Display disk space usage.
+22. **du**: Display directory space usage.
+23. **top** or **htop**: Monitor system resources.
+24. **history**: View command history.
+25. **man**: Display the manual page for a command.
+
